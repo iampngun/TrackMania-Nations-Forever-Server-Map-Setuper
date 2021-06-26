@@ -1,0 +1,8 @@
+Maps: 'TracksToLoad' (Example: 'TracksToLoad', 'C:/TracksToLoad')
+Settings: 'MatchSettings/settings.txt' (Example: 'MatchSettings/settings.txt', 'C:/MatchSettings/settings.txt')
+
+Upper level path example: '../MatchSettings/settings.txt'
+
+Place your paths in '' right after "Maps:" and "Settings:"
+
+Dont change anything instead of '' content !!!
